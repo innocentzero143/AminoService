@@ -1,13 +1,16 @@
 from setuptools import setup, find_packages
 
+with open("README.md", "r") as stream:
+    long_description = stream.read()
 
 setup(
     name = "AminoService",
-    version = "1.0.10",
-    url = "https://github.com/",
-    download_url = "https://github.com/",
+    version = "1.0.11",
+    url = "https://github.com/innocentzero143/AminoService",
+    download_url = "https://github.com/innocentzero143/AminoService/archive/refs/heads/main.zip",
     license = "MIT",
-    author = "INNOCENT_ZERO",
+    author = "innocentzero143",
+    long_description=long_description,
     author_email = "innocentzero143@gmail.com",
     description = "A library to create Amino bots and scripts",
     long_description_content_type = "text/markdown",
