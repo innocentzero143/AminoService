@@ -1,8 +1,8 @@
 __title__ = "AminoService"
-__author__ = "INNOCENT_ZERO"
+__author__ = "innocentzero143"
 __license__ = "MIT"
-__copyright__ = "Copyright 2023-2024 INNOCENT_ZERO"
-__version__ = "1.0.10"
+__copyright__ = "Copyright 2023-2024 innocentzero143"
+__version__ = "1.0.11"
 
 from .acm import ACM
 from .client import Client
