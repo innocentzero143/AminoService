@@ -2,7 +2,7 @@ __title__ = "AminoService"
 __author__ = "innocentzero143"
 __license__ = "MIT"
 __copyright__ = "Copyright 2023-2024 innocentzero143"
-__version__ = "1.0.11"
+__version__ = "1.1.12"
 
 from .acm import ACM
 from .client import Client
