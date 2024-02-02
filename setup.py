@@ -5,7 +5,7 @@ with open("README.md", "r") as stream:
 
 setup(
     name = "AminoService",
-    version = "1.0.11",
+    version = "1.1.12",
     url = "https://github.com/innocentzero143/AminoService",
     download_url = "https://github.com/innocentzero143/AminoService/archive/refs/heads/main.zip",
     license = "MIT",
