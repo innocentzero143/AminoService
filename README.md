@@ -1,0 +1,2 @@
+# AminoService
+ A LIB FOR AMINO BOT AND SCRIPT
