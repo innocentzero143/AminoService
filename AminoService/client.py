@@ -18,7 +18,7 @@ class Client(Callbacks, SocketHandler):
         self,
         deviceId=None,
         userAgent="Apple iPhone13,4 iOS v15.6.1 Main/3.12.9",
-        proxies={'http': 'socks5://digitalghost618:KBSh5A9oIp@77.47.146.87:50101','https':'socks5://digitalghost618:KBSh5A9oIp@77.47.146.87:50101'},
+        proxies=None,
         certificatePath=None,
         socket_trace=False,
         socketDebugging=False,
